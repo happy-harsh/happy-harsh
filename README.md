@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happy-harsh&label=Profile%20views&color=0e75b6&style=flat" alt="happy-harsh" /> </p>
 
-- 🔭 I’m currently working on **ecommerce**
+- 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **Nodejs and Nextjs**
+- 🌱 I’m currently learning **AI**
 
-- 🤝 I’m looking for help with [food ecommerce app](https://github.com/happy-harsh/Food_Order_Web_APP)
-
-- 👨‍💻 All of my projects are available at [https://newportfolio002.netlify.app/](https://newportfolio002.netlify.app/)
+- 👨‍💻 All of my projects are available at Portfolio(https://harsh-dodiya-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://thankuharsh.blogspot.com/](https://thankuharsh.blogspot.com/)
 
