@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI ML**
 
 - 👨‍💻 All of my projects are available at Portfolio(https://harsh-dodiya-portfolio.vercel.app/)
 
-- 📝 I regularly write articles on [https://thankuharsh.blogspot.com/](https://thankuharsh.blogspot.com/)
-
-- 💬 Ask me about **MERN stack**
+- 📝 I regularly write articles on Blogs(https://thankuharsh.blogspot.com/)
 
 - 📫 How to reach me **harsh.dodi@gmail.com**
 
